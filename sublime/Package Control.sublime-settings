@@ -1,11 +1,21 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
-		"Github Tools",
+		"AngularJS",
+		"Emmet",
+		"ESLint",
+		"Git",
+		"GitGutter",
+		"JavaScript Refactor",
+		"JsFormat",
+		"JSHint",
+		"Material Theme",
 		"Package Control",
-		"Theme - Piatto"
+		"Sass",
+		"Theme - itg.flat"
 	]
 }
